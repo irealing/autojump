@@ -1,6 +1,7 @@
 # 微信跳一跳辅助工具
 
 自动跳一跳，算法参考项目[wechat_jump_game](https://github.com/wangshub/wechat_jump_game)。使用golang开发，免除配置和搭建环境的麻烦。
+仅使用golang标准库开发，无第三方依赖。
 
 ## 安装和使用
 
