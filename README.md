@@ -7,8 +7,8 @@
 
 ```shell
 $ go get github.com/irealing/autojump
-$ go install github.com/irealing/autojump
-$ export PATH=$PATH:$GOPATH\bin
+$ cd $GOPATH/src/github.com/irealing/autojump
+$ go build
 ```
 
 *启动程序前须启动调试模式，并允许USB调试。启动程序时会提示是否允许调试，允许即可。*
